@@ -1,0 +1,8 @@
+.btn--toggle {
+  color: red;
+
+  &:hover, &:active, &:focus {
+    text-decoration: none;
+    color: red;
+  }
+}
